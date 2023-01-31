@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node ./index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Mugheera Bin Sadiq",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.0.0",
+    "handlebars": "^4.7.7",
+    "puppeteer-core": "^2.0.0"
+  }
+}
