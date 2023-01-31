@@ -1,4 +1,4 @@
-﻿# lambda_HTMLToPDF
+﻿# Kindly Fork - lambda_HTMLToPDF
 
 Steps to create lambda function
 1. Download as .zip file
